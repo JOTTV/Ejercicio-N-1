@@ -1,0 +1,7 @@
+C:\Users\312C-25\source\repos\punto 5\punto 5\bin\Debug\punto 5.exe.config
+C:\Users\312C-25\source\repos\punto 5\punto 5\bin\Debug\punto 5.exe
+C:\Users\312C-25\source\repos\punto 5\punto 5\bin\Debug\punto 5.pdb
+C:\Users\312C-25\source\repos\punto 5\punto 5\obj\Debug\punto 5.csproj.AssemblyReference.cache
+C:\Users\312C-25\source\repos\punto 5\punto 5\obj\Debug\punto 5.csproj.CoreCompileInputs.cache
+C:\Users\312C-25\source\repos\punto 5\punto 5\obj\Debug\punto 5.exe
+C:\Users\312C-25\source\repos\punto 5\punto 5\obj\Debug\punto 5.pdb
